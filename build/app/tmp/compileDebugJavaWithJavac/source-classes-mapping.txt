@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+eone/solemn/tech/energyone_user/BuildConfig.java
+ eone.solemn.tech.energyone_user.BuildConfig

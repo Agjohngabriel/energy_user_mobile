@@ -1,0 +1,27 @@
+name: energyone_user
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.16.1 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.1
+  google_fonts: 2.3.2
+  flutter: 
+    sdk: flutter
+  card_swiper: ^2.0.4
+  flutter_switch: ^0.3.2
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  lints: 1.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/
+  uses-material-design: true
+
