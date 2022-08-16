@@ -1,4 +1,0 @@
-#Sun Aug 07 10:02:24 WAT 2022
-base.0=/Users/findme/StudioProjects/energyone_user/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
