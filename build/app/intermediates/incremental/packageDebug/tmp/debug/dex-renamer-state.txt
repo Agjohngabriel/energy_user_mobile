@@ -1,0 +1,4 @@
+#Mon Jan 30 21:24:42 WAT 2023
+base.0=C\:\\Users\\Betta\\Documents\\flutter_programs\\energy_user_mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
