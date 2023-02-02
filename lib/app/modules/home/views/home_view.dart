@@ -66,6 +66,13 @@ class HomeView extends StatelessWidget {
         ),
         Container(
           padding: EdgeInsets.all(2),
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            fit: BoxFit.cover,
+            image: AssetImage("assets/map.png"),
+          opacity: 0.6
+          )
+        ),
           child: Stack(
             children: [
               SizedBox(

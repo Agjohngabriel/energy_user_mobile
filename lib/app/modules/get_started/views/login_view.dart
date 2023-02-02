@@ -154,7 +154,7 @@ class LoginView extends StatelessWidget {
                     ),
                     SizedBox(height: ResConfig.blockSizeVertical * 3),
                     InkWell(
-                      onTap: () => Get.toNamed(Routes.DASHBOARD),
+                      onTap: () =>  Get.toNamed(Routes.OTP), //Get.toNamed(Routes.DASHBOARD),
                       child: Container(
                         padding: EdgeInsets.symmetric(
                             horizontal: ResConfig.blockSizeHorizontal * 10,

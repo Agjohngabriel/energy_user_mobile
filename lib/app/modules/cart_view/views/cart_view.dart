@@ -11,7 +11,6 @@ class CartView extends StatefulWidget {
 
 class _CartViewState extends State<CartView> {
 
-
   int selectedIndex = 0;
   bool selectAll = false;
   List<String> tabItems = ["Unpaid","Confirm","Delivered"];
@@ -27,6 +26,7 @@ class _CartViewState extends State<CartView> {
       selectAll = !selectAll;
     });
   }
+
   @override
   Widget build(BuildContext context) {
     double dx = MediaQuery.of(context).size.width;
