@@ -1,3 +1,4 @@
+import 'package:energyone_user/app/modules/otp/views/otpscreen.dart';
 import 'package:energyone_user/app/modules/station_details/views/station_details.dart';
 import 'package:get/get.dart';
 
@@ -33,6 +34,10 @@ class AppPages {
     GetPage(
       name: _Paths.STATIONDETAILS,
       page: () => StationDetails(),
+    ),
+    GetPage(
+      name: _Paths.OTP,
+      page: () => OTPScreen(),
     ),
   ];
 }

@@ -8,7 +8,9 @@ abstract class Routes {
   static const GET_STARTED = _Paths.GET_STARTED;
   static const DASHBOARD = _Paths.DASHBOARD;
   static const STATIONDETAILS = _Paths.STATIONDETAILS;
+  static const OTP = _Paths.OTP;
 }
+
 
 abstract class _Paths {
   _Paths._();
@@ -17,4 +19,5 @@ abstract class _Paths {
   static const GET_STARTED = '/get-started';
   static const DASHBOARD = '/dashboard';
   static const STATIONDETAILS = '/station-details';
+  static const OTP = '/otp';
 }
